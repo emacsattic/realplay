@@ -285,7 +285,7 @@ region src srctrans title version"
 
 ;; Copyright (C) 2007 Ivan Kanis
 ;; Author: Ivan Kanis
-;; $Id: realplay.el 2443 2009-04-20 19:27:59Z ivan $
+;; 
 ;;
 ;; This program is free software ; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
